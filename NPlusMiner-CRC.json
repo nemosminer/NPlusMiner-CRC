@@ -1,17 +1,17 @@
 [
     {
         "Product":  "NPlusMiner",
-        "Version":  2.4,
+        "Version":  "2.4",
         "CRC":  "F751C2753EB969645789F823D5653CF2931C815553AA5F3BB52380D92841E08F"
     },
     {
         "Product":  "NPlusMiner",
-        "Version":  2.5,
+        "Version":  "2.5",
         "CRC":  "6734E9529D3B027FDCA5CBCB72F8661EE95292EE6E312D82D780C14E995AF6FF"
     },
     {
         "Product":  "NPlusMiner",
-        "Version":  4.0.1,
+        "Version":  "4.0.1",
         "CRC":  "E14D05D4B18E345F6D23FE5E2985343F34209A93CE9D3DC2D0DA13882C08773C"
     }
 ]
