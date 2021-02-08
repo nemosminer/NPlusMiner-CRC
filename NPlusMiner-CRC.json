@@ -593,5 +593,10 @@
         "Product":  "NPlusMiner",
         "Version":  "7.7.0",
         "CRC":  "207F78EFFB1E5EB427212C2F47A55544C657982362D99A1431D0514A20D42702"
+    },
+    {
+        "Product":  "NPlusMiner",
+        "Version":  "7.7.1",
+        "CRC":  "207F78EFFB1E5EB427212C2F47A55544C657982362D99A1431D0514A20D42702"
     }
 ]
